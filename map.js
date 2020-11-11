@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZmFoYWRtYXBhcmkiLCJhIjoiY2tiNjgwOWh6MWU0NjJucGE3ZHJncmlqdyJ9.Cl96nSHIDsaOLyriHKPMMg';
+mapboxgl.accessToken = 'token';
 
 
 function success(pos){
